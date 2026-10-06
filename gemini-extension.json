@@ -1,0 +1,10 @@
+{
+  "name": "car-dealer-tracker",
+  "version": "1.0.0",
+  "mcpServers": {
+    "car-dealer-tracker": {
+      "description": "Read-only access to a used-car dealer's live inventory, profit, expenses, sales, debts and cash.",
+      "httpUrl": "https://mcp.cardealertracker.app/mcp"
+    }
+  }
+}
